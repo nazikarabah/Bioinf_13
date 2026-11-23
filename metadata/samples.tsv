@@ -1,0 +1,7 @@
+run_id	condition	replicate	study_accession	source_name	source_strain	library_layout	library_strand	fastq_uri
+ERR4553381	Chassis_F	1	E-MTAB-9499	Chassis_F 1	Chassis_F	SINGLE	first strand	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR455/001/ERR4553381/ERR4553381.fastq.gz
+ERR4553382	Chassis_F	2	E-MTAB-9499	Chassis_F 2	Chassis_F	SINGLE	first strand	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR455/002/ERR4553382/ERR4553382.fastq.gz
+ERR4553383	Chassis_F	3	E-MTAB-9499	Chassis_F 3	Chassis_F	SINGLE	first strand	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR455/003/ERR4553383/ERR4553383.fastq.gz
+ERR4553389	E_Chassis_F	1	E-MTAB-9499	E_Chassis_F 1	E_Chassis_F	SINGLE	first strand	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR455/009/ERR4553389/ERR4553389.fastq.gz
+ERR4553390	E_Chassis_F	2	E-MTAB-9499	E_Chassis_F 2	E_Cassis_F	SINGLE	first strand	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR455/000/ERR4553390/ERR4553390.fastq.gz
+ERR4553391	E_Chassis_F	3	E-MTAB-9499	E_Chassis_F 3	E_Chassis_F	SINGLE	first strand	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR455/001/ERR4553391/ERR4553391.fastq.gz
