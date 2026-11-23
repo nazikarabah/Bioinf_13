@@ -1,0 +1,66 @@
+ERR4553381	PASS	Basic Statistics	ERR4553381.fastq.gz
+ERR4553381	PASS	Per base sequence quality	ERR4553381.fastq.gz
+ERR4553381	PASS	Per tile sequence quality	ERR4553381.fastq.gz
+ERR4553381	PASS	Per sequence quality scores	ERR4553381.fastq.gz
+ERR4553381	WARN	Per base sequence content	ERR4553381.fastq.gz
+ERR4553381	PASS	Per sequence GC content	ERR4553381.fastq.gz
+ERR4553381	PASS	Per base N content	ERR4553381.fastq.gz
+ERR4553381	WARN	Sequence Length Distribution	ERR4553381.fastq.gz
+ERR4553381	FAIL	Sequence Duplication Levels	ERR4553381.fastq.gz
+ERR4553381	PASS	Overrepresented sequences	ERR4553381.fastq.gz
+ERR4553381	PASS	Adapter Content	ERR4553381.fastq.gz
+ERR4553382	PASS	Basic Statistics	ERR4553382.fastq.gz
+ERR4553382	PASS	Per base sequence quality	ERR4553382.fastq.gz
+ERR4553382	PASS	Per tile sequence quality	ERR4553382.fastq.gz
+ERR4553382	PASS	Per sequence quality scores	ERR4553382.fastq.gz
+ERR4553382	WARN	Per base sequence content	ERR4553382.fastq.gz
+ERR4553382	PASS	Per sequence GC content	ERR4553382.fastq.gz
+ERR4553382	PASS	Per base N content	ERR4553382.fastq.gz
+ERR4553382	WARN	Sequence Length Distribution	ERR4553382.fastq.gz
+ERR4553382	FAIL	Sequence Duplication Levels	ERR4553382.fastq.gz
+ERR4553382	WARN	Overrepresented sequences	ERR4553382.fastq.gz
+ERR4553382	PASS	Adapter Content	ERR4553382.fastq.gz
+ERR4553383	PASS	Basic Statistics	ERR4553383.fastq.gz
+ERR4553383	PASS	Per base sequence quality	ERR4553383.fastq.gz
+ERR4553383	PASS	Per tile sequence quality	ERR4553383.fastq.gz
+ERR4553383	PASS	Per sequence quality scores	ERR4553383.fastq.gz
+ERR4553383	WARN	Per base sequence content	ERR4553383.fastq.gz
+ERR4553383	PASS	Per sequence GC content	ERR4553383.fastq.gz
+ERR4553383	PASS	Per base N content	ERR4553383.fastq.gz
+ERR4553383	WARN	Sequence Length Distribution	ERR4553383.fastq.gz
+ERR4553383	FAIL	Sequence Duplication Levels	ERR4553383.fastq.gz
+ERR4553383	WARN	Overrepresented sequences	ERR4553383.fastq.gz
+ERR4553383	PASS	Adapter Content	ERR4553383.fastq.gz
+ERR4553389	PASS	Basic Statistics	ERR4553389.fastq.gz
+ERR4553389	PASS	Per base sequence quality	ERR4553389.fastq.gz
+ERR4553389	PASS	Per tile sequence quality	ERR4553389.fastq.gz
+ERR4553389	PASS	Per sequence quality scores	ERR4553389.fastq.gz
+ERR4553389	WARN	Per base sequence content	ERR4553389.fastq.gz
+ERR4553389	PASS	Per sequence GC content	ERR4553389.fastq.gz
+ERR4553389	PASS	Per base N content	ERR4553389.fastq.gz
+ERR4553389	WARN	Sequence Length Distribution	ERR4553389.fastq.gz
+ERR4553389	FAIL	Sequence Duplication Levels	ERR4553389.fastq.gz
+ERR4553389	PASS	Overrepresented sequences	ERR4553389.fastq.gz
+ERR4553389	PASS	Adapter Content	ERR4553389.fastq.gz
+ERR4553390	PASS	Basic Statistics	ERR4553390.fastq.gz
+ERR4553390	PASS	Per base sequence quality	ERR4553390.fastq.gz
+ERR4553390	PASS	Per tile sequence quality	ERR4553390.fastq.gz
+ERR4553390	PASS	Per sequence quality scores	ERR4553390.fastq.gz
+ERR4553390	WARN	Per base sequence content	ERR4553390.fastq.gz
+ERR4553390	WARN	Per sequence GC content	ERR4553390.fastq.gz
+ERR4553390	PASS	Per base N content	ERR4553390.fastq.gz
+ERR4553390	WARN	Sequence Length Distribution	ERR4553390.fastq.gz
+ERR4553390	FAIL	Sequence Duplication Levels	ERR4553390.fastq.gz
+ERR4553390	WARN	Overrepresented sequences	ERR4553390.fastq.gz
+ERR4553390	PASS	Adapter Content	ERR4553390.fastq.gz
+ERR4553391	PASS	Basic Statistics	ERR4553391.fastq.gz
+ERR4553391	PASS	Per base sequence quality	ERR4553391.fastq.gz
+ERR4553391	PASS	Per tile sequence quality	ERR4553391.fastq.gz
+ERR4553391	PASS	Per sequence quality scores	ERR4553391.fastq.gz
+ERR4553391	WARN	Per base sequence content	ERR4553391.fastq.gz
+ERR4553391	PASS	Per sequence GC content	ERR4553391.fastq.gz
+ERR4553391	PASS	Per base N content	ERR4553391.fastq.gz
+ERR4553391	WARN	Sequence Length Distribution	ERR4553391.fastq.gz
+ERR4553391	FAIL	Sequence Duplication Levels	ERR4553391.fastq.gz
+ERR4553391	PASS	Overrepresented sequences	ERR4553391.fastq.gz
+ERR4553391	PASS	Adapter Content	ERR4553391.fastq.gz

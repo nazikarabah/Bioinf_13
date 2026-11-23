@@ -1,0 +1,66 @@
+ERR4553381	PASS	Basic Statistics	QC.unpaired.trimmed.fastq
+ERR4553381	PASS	Per base sequence quality	QC.unpaired.trimmed.fastq
+ERR4553381	PASS	Per tile sequence quality	QC.unpaired.trimmed.fastq
+ERR4553381	PASS	Per sequence quality scores	QC.unpaired.trimmed.fastq
+ERR4553381	WARN	Per base sequence content	QC.unpaired.trimmed.fastq
+ERR4553381	PASS	Per sequence GC content	QC.unpaired.trimmed.fastq
+ERR4553381	PASS	Per base N content	QC.unpaired.trimmed.fastq
+ERR4553381	WARN	Sequence Length Distribution	QC.unpaired.trimmed.fastq
+ERR4553381	FAIL	Sequence Duplication Levels	QC.unpaired.trimmed.fastq
+ERR4553381	PASS	Overrepresented sequences	QC.unpaired.trimmed.fastq
+ERR4553381	PASS	Adapter Content	QC.unpaired.trimmed.fastq
+ERR4553382	PASS	Basic Statistics	QC.unpaired.trimmed.fastq
+ERR4553382	PASS	Per base sequence quality	QC.unpaired.trimmed.fastq
+ERR4553382	PASS	Per tile sequence quality	QC.unpaired.trimmed.fastq
+ERR4553382	PASS	Per sequence quality scores	QC.unpaired.trimmed.fastq
+ERR4553382	WARN	Per base sequence content	QC.unpaired.trimmed.fastq
+ERR4553382	PASS	Per sequence GC content	QC.unpaired.trimmed.fastq
+ERR4553382	PASS	Per base N content	QC.unpaired.trimmed.fastq
+ERR4553382	WARN	Sequence Length Distribution	QC.unpaired.trimmed.fastq
+ERR4553382	FAIL	Sequence Duplication Levels	QC.unpaired.trimmed.fastq
+ERR4553382	WARN	Overrepresented sequences	QC.unpaired.trimmed.fastq
+ERR4553382	PASS	Adapter Content	QC.unpaired.trimmed.fastq
+ERR4553383	PASS	Basic Statistics	QC.unpaired.trimmed.fastq
+ERR4553383	PASS	Per base sequence quality	QC.unpaired.trimmed.fastq
+ERR4553383	PASS	Per tile sequence quality	QC.unpaired.trimmed.fastq
+ERR4553383	PASS	Per sequence quality scores	QC.unpaired.trimmed.fastq
+ERR4553383	WARN	Per base sequence content	QC.unpaired.trimmed.fastq
+ERR4553383	PASS	Per sequence GC content	QC.unpaired.trimmed.fastq
+ERR4553383	PASS	Per base N content	QC.unpaired.trimmed.fastq
+ERR4553383	WARN	Sequence Length Distribution	QC.unpaired.trimmed.fastq
+ERR4553383	FAIL	Sequence Duplication Levels	QC.unpaired.trimmed.fastq
+ERR4553383	WARN	Overrepresented sequences	QC.unpaired.trimmed.fastq
+ERR4553383	PASS	Adapter Content	QC.unpaired.trimmed.fastq
+ERR4553389	PASS	Basic Statistics	QC.unpaired.trimmed.fastq
+ERR4553389	PASS	Per base sequence quality	QC.unpaired.trimmed.fastq
+ERR4553389	PASS	Per tile sequence quality	QC.unpaired.trimmed.fastq
+ERR4553389	PASS	Per sequence quality scores	QC.unpaired.trimmed.fastq
+ERR4553389	WARN	Per base sequence content	QC.unpaired.trimmed.fastq
+ERR4553389	PASS	Per sequence GC content	QC.unpaired.trimmed.fastq
+ERR4553389	PASS	Per base N content	QC.unpaired.trimmed.fastq
+ERR4553389	WARN	Sequence Length Distribution	QC.unpaired.trimmed.fastq
+ERR4553389	FAIL	Sequence Duplication Levels	QC.unpaired.trimmed.fastq
+ERR4553389	PASS	Overrepresented sequences	QC.unpaired.trimmed.fastq
+ERR4553389	PASS	Adapter Content	QC.unpaired.trimmed.fastq
+ERR4553390	PASS	Basic Statistics	QC.unpaired.trimmed.fastq
+ERR4553390	PASS	Per base sequence quality	QC.unpaired.trimmed.fastq
+ERR4553390	PASS	Per tile sequence quality	QC.unpaired.trimmed.fastq
+ERR4553390	PASS	Per sequence quality scores	QC.unpaired.trimmed.fastq
+ERR4553390	WARN	Per base sequence content	QC.unpaired.trimmed.fastq
+ERR4553390	WARN	Per sequence GC content	QC.unpaired.trimmed.fastq
+ERR4553390	PASS	Per base N content	QC.unpaired.trimmed.fastq
+ERR4553390	WARN	Sequence Length Distribution	QC.unpaired.trimmed.fastq
+ERR4553390	FAIL	Sequence Duplication Levels	QC.unpaired.trimmed.fastq
+ERR4553390	WARN	Overrepresented sequences	QC.unpaired.trimmed.fastq
+ERR4553390	PASS	Adapter Content	QC.unpaired.trimmed.fastq
+ERR4553391	PASS	Basic Statistics	QC.unpaired.trimmed.fastq
+ERR4553391	PASS	Per base sequence quality	QC.unpaired.trimmed.fastq
+ERR4553391	PASS	Per tile sequence quality	QC.unpaired.trimmed.fastq
+ERR4553391	PASS	Per sequence quality scores	QC.unpaired.trimmed.fastq
+ERR4553391	WARN	Per base sequence content	QC.unpaired.trimmed.fastq
+ERR4553391	PASS	Per sequence GC content	QC.unpaired.trimmed.fastq
+ERR4553391	PASS	Per base N content	QC.unpaired.trimmed.fastq
+ERR4553391	WARN	Sequence Length Distribution	QC.unpaired.trimmed.fastq
+ERR4553391	FAIL	Sequence Duplication Levels	QC.unpaired.trimmed.fastq
+ERR4553391	PASS	Overrepresented sequences	QC.unpaired.trimmed.fastq
+ERR4553391	PASS	Adapter Content	QC.unpaired.trimmed.fastq
